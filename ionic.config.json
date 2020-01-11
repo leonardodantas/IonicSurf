@@ -1,0 +1,7 @@
+{
+  "name": "cursoSurf",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
